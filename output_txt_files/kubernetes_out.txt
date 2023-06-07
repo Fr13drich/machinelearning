@@ -5,3 +5,8 @@ Handling connection for 8000
     20.35373177134412
   ]
 }
+# Here an extract of the run_kubernetes.sh output
+NAME                                   READY   STATUS    RESTARTS   AGE
+pod/machinelearning-5f76854648-lxs58   1/1     Running   0          21m
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
